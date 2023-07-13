@@ -57,14 +57,14 @@ section {
   padding: 0.5rem calc(1.25rem + 2px) 0.5rem 0;
 }
 
-#years span[class]{
+#years span[class] {
   font-weight: bold;
   width: 4.5rem;
   text-align: right;
 }
 
 .table-wrap {
-  padding: 0 0.75rem 1.5rem 0.75rem
+  padding: 0 0.75rem 1.5rem 0.75rem;
 }
 
 span {
@@ -74,4 +74,12 @@ span {
 table {
   border-collapse: collapse;
   border: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border: 0;
+  position: relative;
+  margin-top: 3rem;
+  width: 100%;
 }
