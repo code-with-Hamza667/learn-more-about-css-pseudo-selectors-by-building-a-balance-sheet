@@ -50,5 +50,7 @@ section {
   display: flex;
   justify-content: flex-end;
   position: sticky;
-  top: 0
+  top: 0;
+  color: #ffff;
+  background: #0a0a23;
 }
