@@ -88,4 +88,7 @@ table caption {
   color: #356eaf;
   font-weight: normal;
   font-size: 1.3em;
+  position: absolute;
+  top: -2.25rem;
+  left: 0.5rem;
 }
